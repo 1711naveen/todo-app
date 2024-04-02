@@ -1,11 +1,15 @@
 # Backend of the project is present on:
 https://github.com/1711naveen/api
 
+# Live Link:
+https://playful-taiyaki-ba2d71.netlify.app/
+
 # Running the finished code
 
 Clone the repo and run the following:
 
-- cd final
+- git clone https://github.com/1711naveen/todo-app.git
+- cd todo-app
 - npm install
 - npm start
 
@@ -15,6 +19,8 @@ Clone the repo and run the following:
 
 The API is a dead basic node.js/express server. Clone the repo and run the following:
 
+- Go to link: https://github.com/1711naveen/api
+- git clone https://github.com/1711naveen/api.git
 - cd api
 - npm install
 - npm run server
