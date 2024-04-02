@@ -3,6 +3,7 @@ https://github.com/1711naveen/api
 
 # Live Link:
 https://playful-taiyaki-ba2d71.netlify.app/
+- in site setting select insecure content Allow
 
 # Running the finished code
 
